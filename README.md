@@ -222,6 +222,12 @@
 
 [배포서버 URL](http://watchub2.s3-website.ap-northeast-2.amazonaws.com/)
 
+```markdown
+test용 ID
+id: test
+pw: test01!
+```
+
 
 
 ## 7. 기타(느낀점)
